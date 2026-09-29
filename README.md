@@ -60,4 +60,4 @@
 | [**Portfolio**](https://jindalyash.com) | My personal site: experience, skills, projects and awards. |
 | [**Links**](https://links.jindalyash.com) | One map of everything I'm building. |
 
-**Open source:** [**PyInsider**](https://github.com/Yashjindal11/pyinsider) records a Python program's real execution (calls, timings, arguments, exception paths) so you can explore it in a viewer. [**project-mapper**](https://github.com/Yashjindal11/projectmap) maps what a Python entry point depends on without running it.
+**Python tools:** **PyInsider** records a Python program's real execution (calls, timings, arguments, exception paths) so you can explore it in a viewer. [**project-mapper**](https://pypi.org/project/project-mapper/) maps what a Python entry point depends on without running it.
