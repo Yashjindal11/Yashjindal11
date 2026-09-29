@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="195" viewBox="0 0 440 195" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" rx="6" width="439" height="194" fill="#ffffff" stroke="#e4e2e2"/>
+  <text x="25" y="35" font-size="18" font-weight="600" fill="#2f80ed">Most Used Languages</text>
+  <clipPath id="bar"><rect width="390" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#bar)" transform="translate(25, 55)"><rect x="0.00" y="0" width="159.29" height="8" fill="#3178c6"/><rect x="159.29" y="0" width="123.64" height="8" fill="#f1e05a"/><rect x="282.93" y="0" width="55.65" height="8" fill="#3572A5"/><rect x="338.58" y="0" width="38.33" height="8" fill="#663399"/><rect x="376.90" y="0" width="7.27" height="8" fill="#336790"/><rect x="384.18" y="0" width="4.02" height="8" fill="#e34c26"/><rect x="388.19" y="0" width="1.81" height="8" fill="#f34b7d"/></g>
+  <g transform="translate(25, 90)">
+    <g transform="translate(0, 0)">
+    <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
+    <text x="16" font-size="12" fill="#434d58">TypeScript 40.8%</text>
+  </g>
+    <g transform="translate(195, 0)">
+    <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
+    <text x="16" font-size="12" fill="#434d58">JavaScript 31.7%</text>
+  </g>
+    <g transform="translate(0, 22)">
+    <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
+    <text x="16" font-size="12" fill="#434d58">Python 14.3%</text>
+  </g>
+    <g transform="translate(195, 22)">
+    <circle cx="5" cy="-4" r="5" fill="#663399"/>
+    <text x="16" font-size="12" fill="#434d58">CSS 9.8%</text>
+  </g>
+    <g transform="translate(0, 44)">
+    <circle cx="5" cy="-4" r="5" fill="#336790"/>
+    <text x="16" font-size="12" fill="#434d58">PLpgSQL 1.9%</text>
+  </g>
+    <g transform="translate(195, 44)">
+    <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
+    <text x="16" font-size="12" fill="#434d58">HTML 1.0%</text>
+  </g>
+    <g transform="translate(0, 66)">
+    <circle cx="5" cy="-4" r="5" fill="#f34b7d"/>
+    <text x="16" font-size="12" fill="#434d58">C++ 0.5%</text>
+  </g>
+  </g>
+</svg>
