@@ -61,10 +61,3 @@
 | [**Links**](https://links.jindalyash.com) | One map of everything I'm building. |
 
 **Open source:** [**PyInsider**](https://github.com/Yashjindal11/pyinsider) records a Python program's real execution (calls, timings, arguments, exception paths) so you can explore it in a viewer. [**project-mapper**](https://github.com/Yashjindal11/projectmap) maps what a Python entry point depends on without running it.
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="assets/stats.svg" alt="GitHub stats"/>
-  <img height="165" src="assets/top-langs.svg" alt="Top languages"/>
-</p>
