@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yash Jindal</h1>
 <p align="center">
-  <b>Analyst, Decision Sciences @ United Airlines</b> · Data Science · Machine Learning · Building data products<br/>
+  <b>Analyst, Operations Performance &amp; Analytics @ United Airlines</b> · Data Science · Machine Learning · Building data products<br/>
   Working toward a Master's in Data Science with a focus on AI/ML
 </p>
 
@@ -48,29 +48,23 @@
 <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
-### Featured projects
+### Projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**MBAround**](https://github.com/Yashjindal11/MBAround) | An MBA discovery and planning platform. Deadlines, rounds and school profiles are searchable and comparable, and it never shows an unverified deadline as confirmed. | React · TypeScript · Tailwind |
-| [**Portfolio**](https://github.com/Yashjindal11/yash-jindal-portfolio) | My personal site: [jindalyash.com](https://jindalyash.com) | HTML · CSS · JS |
-| [**PyInsider**](https://github.com/Yashjindal11/pyinsider) | Records a Python program's real execution (calls, timings, arguments, exception paths) so you can explore it in an interactive viewer. | Python |
-| [**project-mapper**](https://github.com/Yashjindal11/projectmap) | Static analysis that maps what a Python entry point depends on, without running it, and outputs a self-contained HTML report. | Python |
-| [**RouteQuest**](https://github.com/Yashjindal11/RouteQuest) | An interactive explorer for the world's flight network, drawing real geodesic arcs. | JavaScript |
-| [**Yash Arcade**](https://github.com/Yashjindal11/games) | A mini arcade of quick browser games. | JavaScript |
+| Project | What it does |
+| --- | --- |
+| [**GoBizSchool**](https://gobizschool.com) | A business-school discovery and application platform. It tracks deadlines, rounds and school profiles for top MBA programs and helps you plan each application through to submission. |
+| [**Resume Studio**](https://resumestudio.gobizschool.com) | Write a LaTeX resume in the browser with a live preview and a print-ready PDF. No sign-up, no server. |
+| [**Referrals**](https://referrals.jindalyash.com) | A structured way to request a United Airlines referral from me, so every request arrives with the details I need. |
+| [**Tools by Yash**](https://tools.jindalyash.com) | Private developer utilities that run entirely in the browser: JSON, cron, tokens, encoding, colors and more. |
+| [**The Curious Jindal**](https://writing.jindalyash.com) | My writing on technology, aviation, work and ideas. |
+| [**Portfolio**](https://jindalyash.com) | My personal site: experience, skills, projects and awards. |
+| [**Links**](https://links.jindalyash.com) | One map of everything I'm building. |
 
-### Live on the web
-
-- [**Resume Studio**](https://resumestudio.gobizschool.com): write a LaTeX resume in the browser with a live preview and PDF export. No sign-up, no server.
-- [**Tools by Yash**](https://tools.jindalyash.com): private developer utilities that run entirely in the browser (JSON, cron, tokens, encoding, colors and more).
-- [**The Curious Jindal**](https://writing.jindalyash.com): my writing on technology, aviation, work and ideas.
-- [**links.jindalyash.com**](https://links.jindalyash.com): one map of everything I'm building.
-
-**Currently building:** **GoBizSchool**, a business-school application management and preparation platform that takes an applicant from "what's due?" to "submitted".
+**Open source:** [**PyInsider**](https://github.com/Yashjindal11/pyinsider) records a Python program's real execution (calls, timings, arguments, exception paths) so you can explore it in a viewer. [**project-mapper**](https://github.com/Yashjindal11/projectmap) maps what a Python entry point depends on without running it.
 
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashjindal11&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashjindal11&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="165" src="assets/stats.svg" alt="GitHub stats"/>
+  <img height="165" src="assets/top-langs.svg" alt="Top languages"/>
 </p>
