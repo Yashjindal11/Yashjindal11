@@ -61,7 +61,7 @@
 
 ### Open-source frameworks
 
-Four Python frameworks for making AI systems, and the data they learn from, more measurable and reliable. Each one is built to test whether its approach actually helps, not to assume it does.
+Five Python frameworks for making AI systems, the data they learn from, and the operational decisions they support more measurable and reliable. Each one is built to test whether its approach actually helps, not to assume it does.
 
 | Repository | What it does |
 | --- | --- |
@@ -69,5 +69,6 @@ Four Python frameworks for making AI systems, and the data they learn from, more
 | [**SynapSI**](https://github.com/Yashjindal11/synapsi) | Collective AI reasoning. Multiple agents exchange structured claims and evidence, make disagreement explicit and synthesize a result, with an experiment engine that measures when more agents help and when they hurt. |
 | [**RedSI**](https://github.com/Yashjindal11/redsi) | Red-teaming and reliability engineering for AI systems: discover, reproduce, measure and prevent failures, with regression gates for CI. Work in progress. |
 | [**DataSI**](https://github.com/Yashjindal11/datasi) | Data quality investigation. Finds missingness patterns, duplicates, type problems, outliers, train/test drift and features that predict the target suspiciously well, using statistics rather than LLMs, and separates what was measured from what it might mean. |
+| [**SimulSI**](https://github.com/Yashjindal11/simulsi) | Simulation for operational decisions. Discrete-event models of queues, resources and disruptions, run as reproducible experiments with confidence intervals, paired scenario comparisons, Monte Carlo and Sobol sensitivity analysis. |
 
 **Python tools:** **PyInsider** records a Python program's real execution (calls, timings, arguments, exception paths) so you can explore it in a viewer. [**project-mapper**](https://pypi.org/project/project-mapper/) maps what a Python entry point depends on without running it.
