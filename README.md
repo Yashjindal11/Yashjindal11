@@ -56,8 +56,17 @@
 | [**Resume Studio**](https://resumestudio.gobizschool.com) | Write a LaTeX resume in the browser with a live preview and a print-ready PDF. No sign-up, no server. |
 | [**Referrals**](https://referrals.jindalyash.com) | A structured way to request a United Airlines referral from me, so every request arrives with the details I need. |
 | [**Tools by Yash**](https://tools.jindalyash.com) | Private developer utilities that run entirely in the browser: JSON, cron, tokens, encoding, colors and more. |
-| [**The Curious Jindal**](https://writing.jindalyash.com) | My writing on technology, aviation, work and ideas. |
 | [**Portfolio**](https://jindalyash.com) | My personal site: experience, skills, projects and awards. |
 | [**Links**](https://links.jindalyash.com) | One map of everything I'm building. |
+
+### Open-source AI frameworks
+
+Three Python frameworks for making AI systems more measurable and reliable. Each one is built to test whether its approach actually helps, not to assume it does.
+
+| Repository | What it does |
+| --- | --- |
+| [**AdverSI**](https://github.com/Yashjindal11/adversi) | Adversarial, evidence-aware multi-agent reasoning. Agents reason independently, make typed claims, cite sources that are checked word for word, cross-examine each other, and hand a judge a record whose verdicts are validated by deterministic rules. |
+| [**SynapSI**](https://github.com/Yashjindal11/synapsi) | Collective AI reasoning. Multiple agents exchange structured claims and evidence, make disagreement explicit and synthesize a result, with an experiment engine that measures when more agents help and when they hurt. |
+| [**RedSI**](https://github.com/Yashjindal11/redsi) | Red-teaming and reliability engineering for AI systems: discover, reproduce, measure and prevent failures, with regression gates for CI. Work in progress. |
 
 **Python tools:** **PyInsider** records a Python program's real execution (calls, timings, arguments, exception paths) so you can explore it in a viewer. [**project-mapper**](https://pypi.org/project/project-mapper/) maps what a Python entry point depends on without running it.
