@@ -69,4 +69,6 @@ Three Python frameworks for making AI systems more measurable and reliable. Each
 | [**SynapSI**](https://github.com/Yashjindal11/synapsi) | Collective AI reasoning. Multiple agents exchange structured claims and evidence, make disagreement explicit and synthesize a result, with an experiment engine that measures when more agents help and when they hurt. |
 | [**RedSI**](https://github.com/Yashjindal11/redsi) | Red-teaming and reliability engineering for AI systems: discover, reproduce, measure and prevent failures, with regression gates for CI. Work in progress. |
 
+**Data quality:** [**DataSI**](https://github.com/Yashjindal11/datasi) investigates a dataset before you train on it: missingness patterns, duplicates, type problems, outliers, drift between train and test, and features that predict the target suspiciously well. It runs locally with statistics, not LLMs, and every finding separates what was measured from what it might mean.
+
 **Python tools:** **PyInsider** records a Python program's real execution (calls, timings, arguments, exception paths) so you can explore it in a viewer. [**project-mapper**](https://pypi.org/project/project-mapper/) maps what a Python entry point depends on without running it.
