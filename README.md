@@ -59,16 +59,15 @@
 | [**Portfolio**](https://jindalyash.com) | My personal site: experience, skills, projects and awards. |
 | [**Links**](https://links.jindalyash.com) | One map of everything I'm building. |
 
-### Open-source AI frameworks
+### Open-source frameworks
 
-Three Python frameworks for making AI systems more measurable and reliable. Each one is built to test whether its approach actually helps, not to assume it does.
+Four Python frameworks for making AI systems, and the data they learn from, more measurable and reliable. Each one is built to test whether its approach actually helps, not to assume it does.
 
 | Repository | What it does |
 | --- | --- |
 | [**AdverSI**](https://github.com/Yashjindal11/adversi) | Adversarial, evidence-aware multi-agent reasoning. Agents reason independently, make typed claims, cite sources that are checked word for word, cross-examine each other, and hand a judge a record whose verdicts are validated by deterministic rules. |
 | [**SynapSI**](https://github.com/Yashjindal11/synapsi) | Collective AI reasoning. Multiple agents exchange structured claims and evidence, make disagreement explicit and synthesize a result, with an experiment engine that measures when more agents help and when they hurt. |
 | [**RedSI**](https://github.com/Yashjindal11/redsi) | Red-teaming and reliability engineering for AI systems: discover, reproduce, measure and prevent failures, with regression gates for CI. Work in progress. |
-
-**Data quality:** [**DataSI**](https://github.com/Yashjindal11/datasi) investigates a dataset before you train on it: missingness patterns, duplicates, type problems, outliers, drift between train and test, and features that predict the target suspiciously well. It runs locally with statistics, not LLMs, and every finding separates what was measured from what it might mean.
+| [**DataSI**](https://github.com/Yashjindal11/datasi) | Data quality investigation. Finds missingness patterns, duplicates, type problems, outliers, train/test drift and features that predict the target suspiciously well, using statistics rather than LLMs, and separates what was measured from what it might mean. |
 
 **Python tools:** **PyInsider** records a Python program's real execution (calls, timings, arguments, exception paths) so you can explore it in a viewer. [**project-mapper**](https://pypi.org/project/project-mapper/) maps what a Python entry point depends on without running it.
