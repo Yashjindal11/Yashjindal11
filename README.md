@@ -53,10 +53,10 @@
 | Project | What it does |
 | --- | --- |
 | [**GoBizSchool**](https://gobizschool.com) | A business-school discovery and application platform. It tracks deadlines, rounds and school profiles for top MBA programs and helps you plan each application through to submission. |
+| [**Portfolio**](https://jindalyash.com) | My personal site: experience, skills, projects and awards. |
 | [**Resume Studio**](https://resumestudio.gobizschool.com) | Write a LaTeX resume in the browser with a live preview and a print-ready PDF. No sign-up, no server. |
 | [**Referrals**](https://referrals.jindalyash.com) | A structured way to request a United Airlines referral from me, so every request arrives with the details I need. |
 | [**Tools by Yash**](https://tools.jindalyash.com) | Private developer utilities that run entirely in the browser: JSON, cron, tokens, encoding, colors and more. |
-| [**Portfolio**](https://jindalyash.com) | My personal site: experience, skills, projects and awards. |
 | [**Links**](https://links.jindalyash.com) | One map of everything I'm building. |
 
 ### Open-source projects
