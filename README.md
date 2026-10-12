@@ -59,18 +59,18 @@
 | [**Portfolio**](https://jindalyash.com) | My personal site: experience, skills, projects and awards. |
 | [**Links**](https://links.jindalyash.com) | One map of everything I'm building. |
 
-### Open-source frameworks
+### Open-source projects
 
-Seven Python frameworks for making AI systems, the data they learn from, and the operational decisions they support more measurable and reliable. Each one is built to test whether its approach actually helps, not to assume it does.
+A collection of Python projects spanning simulation, AI reasoning and reliability, data quality, execution tracing, and static analysis. They make systems easier to model, inspect, and evaluate with reproducible evidence.
 
 | Repository | What it does |
 | --- | --- |
+| [**SimulSI**](https://github.com/Yashjindal11/simulsi) | An experiment-first discrete-event simulation framework for operational systems. Model queues, resources, and disruptions, then compare scenarios with reproducible seeded runs, paired confidence intervals, Monte Carlo, and sensitivity analysis to turn “what if?” questions into evidence for decisions. |
 | [**AdverSI**](https://github.com/Yashjindal11/adversi) | Adversarial, evidence-aware multi-agent reasoning. Agents reason independently, make typed claims, cite sources that are checked word for word, cross-examine each other, and hand a judge a record whose verdicts are validated by deterministic rules. |
 | [**SynapSI**](https://github.com/Yashjindal11/synapsi) | Collective AI reasoning. Multiple agents exchange structured claims and evidence, make disagreement explicit and synthesize a result, with an experiment engine that measures when more agents help and when they hurt. |
 | [**RedSI**](https://github.com/Yashjindal11/redsi) | Red-teaming and reliability engineering for AI systems: discover, reproduce, measure and prevent failures, with regression gates for CI. Work in progress. |
 | [**DataSI**](https://github.com/Yashjindal11/datasi) | Data quality investigation. Finds missingness patterns, duplicates, type problems, outliers, train/test drift and features that predict the target suspiciously well, using statistics rather than LLMs, and separates what was measured from what it might mean. |
-| [**SimulSI**](https://github.com/Yashjindal11/simulsi) | Simulation for operational decisions. Discrete-event models of queues, resources and disruptions, run as reproducible experiments with confidence intervals, paired scenario comparisons, Monte Carlo and Sobol sensitivity analysis. |
 | [**AuctionSI**](https://github.com/Yashjindal11/auctionsi) | Marketplaces and auctions for autonomous agents. Agents bid on tasks, a pluggable mechanism picks an explainable winner, and the work is contracted, verified deterministically, settled and fed into multi-dimensional reputation, with simulations to compare market designs. |
 | [**ReconSI**](https://github.com/Yashjindal11/reconsi) | Data reconciliation. Finds out why two datasets that should agree don't: missing and extra records, duplicate and malformed keys, value differences under explicit tolerances, grain mismatches, systematic bias, where mismatches concentrate and when they started, with every finding labelled as observed, statistical or a likely explanation. |
-
-**Python tools:** **PyInsider** records a Python program's real execution (calls, timings, arguments, exception paths) so you can explore it in a viewer. [**project-mapper**](https://pypi.org/project/project-mapper/) maps what a Python entry point depends on without running it.
+| [**PyInsider**](https://github.com/Yashjindal11/pyinsider) | A local-first Python execution recorder that captures function calls, timings, arguments, return values, and exception paths, then lets you explore the recorded call tree in an interactive viewer. |
+| [**project-mapper**](https://github.com/Yashjindal11/projectmap) | A static Python dependency mapper that recursively traces local imports from an entry point and generates a self-contained HTML report, without executing the code. |
