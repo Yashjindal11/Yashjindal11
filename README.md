@@ -61,7 +61,7 @@
 
 ### Open-source projects
 
-A collection of Python projects spanning simulation, AI reasoning and reliability, data quality, execution tracing, and static analysis. They make systems easier to model, inspect, and evaluate with reproducible evidence.
+A collection of Python projects spanning simulation, AI reasoning and reliability, data quality, background job execution, execution tracing, and static analysis. They make systems easier to model, inspect, and evaluate with reproducible evidence.
 
 | Repository | What it does |
 | --- | --- |
@@ -72,6 +72,7 @@ A collection of Python projects spanning simulation, AI reasoning and reliabilit
 | [**DataSI**](https://github.com/Yashjindal11/datasi) | Data quality investigation. Finds missingness patterns, duplicates, type problems, outliers, train/test drift and features that predict the target suspiciously well, using statistics rather than LLMs, and separates what was measured from what it might mean. |
 | [**AuctionSI**](https://github.com/Yashjindal11/auctionsi) | Marketplaces and auctions for autonomous agents. Agents bid on tasks, a pluggable mechanism picks an explainable winner, and the work is contracted, verified deterministically, settled and fed into multi-dimensional reputation, with simulations to compare market designs. |
 | [**ReconSI**](https://github.com/Yashjindal11/reconsi) | Data reconciliation. Finds out why two datasets that should agree don't: missing and extra records, duplicate and malformed keys, value differences under explicit tolerances, grain mismatches, systematic bias, where mismatches concentrate and when they started, with every finding labelled as observed, statistical or a likely explanation. |
+| [**sidejob**](https://github.com/Yashjindal11/sidejob) | Background jobs for Python data workflows. Run uploads, exports and Spark actions in the background while the analysis continues, with bounded threads, opt-in retries, a full job history, interrupts for running jobs, and a mandatory `wait_all()` check so a failed job can never pass as success. `pip install sidejob` |
 | [**PyInsider**](https://github.com/Yashjindal11/pyinsider) | A local-first Python execution recorder that captures function calls, timings, arguments, return values, and exception paths, then lets you explore the recorded call tree in an interactive viewer. |
 | [**project-mapper**](https://github.com/Yashjindal11/projectmap) | A static Python dependency mapper that recursively traces local imports from an entry point and generates a self-contained HTML report, without executing the code. |
 | [**claude-session-handoff**](https://github.com/Yashjindal11/claude-session-handoff) | A Claude Code skill that keeps local project checkpoints: decisions, edits, verification, and next steps, so a new session can resume after a reset or lost context. |
